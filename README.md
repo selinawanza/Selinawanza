@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm []selina wanza
 
-<!--
-**selinawanza/Selinawanza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- I'm currently learning [" AI at We can Academy"].
+- I'm interested in [ "AI, web development,building intelligent systems that solve real world problems,Ai powered applications and data science"].
+- I'm looking to collaborate on [ "beginner-friendly open source projects ,Ai based applications,python"].
 
-Here are some ideas to get you started:
+## Skills I'm Building
+- Git and GitHub
+- [ "Python","jupyter notebook" "HTML/CSS", "Machine Learning"]
+  ["linux command"]
+  -["intergrated development environment"]
+## Current Projects
+- [AI project](https://github.com/selinawanza)— beginner friendly ai tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## How to Reach Me
+- Email: [selinawanza6@gmail.com]
+- LinkedIn: [https:www.linkedin.com/in/selina-wanza-a4a545213]
