@@ -2,16 +2,19 @@
 
 ## About Me
 - I'm currently learning [" AI at We can Academy"].
-- I'm interested in [ "AI, web development,building intelligent systems that solve real world problems,Ai powered applications and data science"].
-- I'm looking to collaborate on [ "beginner-friendly open source projects ,Ai based applications,python"].
+- I'm interested in [ "AI"] ["web development"]["building intelligent systems that solve real world problems"] ["Ai applications"]["prompt engineering"].
+- I'm looking to collaborate on [ "machine learning","building AI systems","python"].
 
 ## Skills I'm Building
 - Git and GitHub
-- [ "Python","jupyter notebook" "HTML/CSS", "Machine Learning"]
-  ["linux command"]
-  -["intergrated development environment"]
+- [ "Python programmimg"]
+- [" machine learnining"]
+- ["prompt engineering"]
+- [jupyter notebook"]
+- [deep learning and neural networks"]
+
 ## Current Projects
-- [AI project](https://github.com/selinawanza)— beginner friendly ai tools
+- [creating and familiarizing with github account](https://github.com/selinawanza)— learning how to create a site or a blog and the terms used
 
 ## How to Reach Me
 - Email: [selinawanza6@gmail.com]
